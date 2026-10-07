@@ -6,7 +6,7 @@ Built with **NLTK** (text processing), **pandas** (data handling), **scikit-lear
 
 ## Live demo
 
-Try it yourself: **[add your Streamlit app link here]**
+Try it yourself: https://tweet-sentiment-ak.streamlit.app/
 
 Type any tweet and see how both models classify it, with the cleaned tokens, each word's contribution to the Naive Bayes score, the test-set metrics and confusion matrices, the misclassified tweets, and a word explorer. The app loads the saved models, so nothing is retrained when it starts.
 

@@ -108,4 +108,4 @@ This project is inspired by the Logistic Regression and Naive Bayes exercises fr
 ## Author
 
 **Alisha Khan**
-Add your LinkedIn profile link here.
+https://www.linkedin.com/in/alisharaufkhan/

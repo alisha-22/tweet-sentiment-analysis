@@ -1,0 +1,7 @@
+# Versions match the ones used to create lr_model.pkl and nb_model.pkl.
+# Pickle files are version-sensitive, so keep scikit-learn and pandas pinned.
+streamlit==1.65.0
+nltk==3.10.3
+pandas==3.0.2
+scikit-learn==1.8.0
+matplotlib==3.10.8
